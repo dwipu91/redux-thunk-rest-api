@@ -1,0 +1,25 @@
+{
+  "studnets": [
+    {
+      "id": "3fb2",
+      "name": "dwipu",
+      "roll": "12389",
+      "email": "aktruzzamandwipu@gmail.com",
+      "photo": "https://pbs.twimg.com/media/EuXEkjWUUAIXi6c?format=jpg&name=large"
+    },
+    {
+      "id": "cebe",
+      "name": "Akteruzzaman",
+      "roll": "3489",
+      "email": "aktruzzamandwipu@gmail.com",
+      "photo": "https://pbs.twimg.com/media/FuuBgg7aUAEe-pH?format=jpg&name=4096x4096"
+    },
+    {
+      "id": "629e",
+      "name": "Akteruzzaman",
+      "roll": "1236",
+      "email": "aktruzzamandwipu@gmai.com",
+      "photo": "https://pbs.twimg.com/media/FuuBgg7aUAEe-pH?format=jpg&name=4096x4096"
+    }
+  ]
+}
